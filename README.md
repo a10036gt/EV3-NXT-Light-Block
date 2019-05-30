@@ -6,6 +6,7 @@ NXT Light Sensor Block for EV3-G
 You can download ev3b file to import：[NXTLightSensor_1.2.ev3b](https://github.com/a10036gt/EV3-NXT-Light-Block/releases/download/v1.2/NXTLightSensor_1.2.ev3b)
 
 User Menu：(https://www.ofdl.nctu.me/en/ev3-hacking/nxt-light-block/)
+
 使用說明：(https://www.ofdl.nctu.me/ev3-hack/nxt-light-sensor-block/)
 
 In LEGO® MINDSTORMS® EV3-G, We can use Color Sensor Block (or Sound
