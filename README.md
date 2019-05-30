@@ -1,7 +1,7 @@
 NXT Light Sensor Block for EV3-G
 ================================
 
-![](NXTLight.png)
+![](https://github.com/a10036gt/EV3-NXT-Light-Block/raw/master/help/en-GB/NXTLight.png)
 
 In LEGO® MINDSTORMS® EV3-G, We can use Color Sensor Block (or Sound
 Sensor Block) to control NXT Light Sensor,but it seems like not so
