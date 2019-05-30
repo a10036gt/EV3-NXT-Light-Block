@@ -3,22 +3,24 @@ NXT Light Sensor Block for EV3-G
 
 ![](https://github.com/a10036gt/EV3-NXT-Light-Block/raw/master/help/en-GB/NXTLight.png)
 
+You can download ev3b file to import：[NXTLightSensor_1.2.ev3b](https://github.com/a10036gt/EV3-NXT-Light-Block/releases/download/v1.2/NXTLightSensor_1.2.ev3b)
+
 In LEGO® MINDSTORMS® EV3-G, We can use Color Sensor Block (or Sound
-Sensor Block) to control NXT Light Sensor,but it seems like not so
-well
- So we made this Block to add support for read NXT Light Sensor value,
-it is normalization of raw value, so you need to configure min and max
-of raw value first
+Sensor Block) to control NXT Light Sensor,but it seems like not so well.. So we made this Block to add support for read NXT Light Sensor value,
+it is normalization of raw value, so you need to configure min and max of raw value first.
+
 Some data You can find in LabVIEW®.
  
 This Block made By OFDL Taiwan. Any Question? Please contact us [OFDL
 Facebook Page](https://www.facebook.com/cljhofdl)
- Note：This Block should work with EV3 Firmware versions from v1.06
+
+Note：This Block should work with EV3 Firmware versions from v1.06
 onwards (include Home, Education, Developer and LabVIEW® ver.).
 
- It is recommended that the EV3 Firmware is always updated to the latest
+It is recommended that the EV3 Firmware is always updated to the latest
 version released from LEGO®.
- NXT Light Sensor Block is not officially supported by the LEGO® Group.
+
+NXT Light Sensor Block is not officially supported by the LEGO® Group.
 
 * * * * *
 
