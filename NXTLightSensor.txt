@@ -1,0 +1,7 @@
+NXT
+ Light Sensor for EV3
+Type=-1(Raw Sensor Value)
+
+
+20190408 OFDL Developer Group.
+update 20190409 1.1
