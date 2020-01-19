@@ -3,7 +3,7 @@ NXT Light Sensor Block for EV3-G
 
 ![](https://github.com/a10036gt/EV3-NXT-Light-Block/raw/master/help/en-GB/NXTLight.png)
 
-You can download ev3b file to import：[NXTLightSensor_1.2.ev3b](https://github.com/a10036gt/EV3-NXT-Light-Block/releases/download/v1.2/NXTLightSensor_1.2.ev3b)
+You can download ev3b file to import：[NXTLight_OFDL_v1.3.ev3b](https://github.com/a10036gt/EV3-NXT-Light-Block/releases/download/1.3/NXTLight_OFDL_v1.3.ev3b)
 
 User Menu：(https://www.ofdl.nctu.me/en/ev3-hacking/nxt-light-block/)
 
