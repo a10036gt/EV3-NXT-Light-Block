@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<EditorStrings>
+   <PolyGroups ModuleName="NXTLight">
+      <PolyGroup Name="NXTLight" DisplayName="NXT Light Sensor - OFDL Dev." DisplayNamePrefix="NXTLight">
+         <Parameter Name="Max" DisplayName="Raw Value Max Set">
+            <Description><![CDATA[<p>Raw Value Max</p>]]></Description>
+         </Parameter>
+         <Parameter Name="Min" DisplayName="Raw Value Min Set">
+            <Description><![CDATA[<p>Raw Value Min</p>]]></Description>
+         </Parameter>
+         <Parameter Name="Value" DisplayName="Light">
+            <Description><![CDATA[<p>Light</p>]]></Description>
+         </Parameter>
+         <Parameter Name="Port" DisplayName="Port">
+            <Description><![CDATA[<p>Port</p>]]></Description>
+         </Parameter>
+         <Block Mode="Read" DisplayName="Read NXT Light">
+            <Description><![CDATA[<p>Read NXT Light</p>]]></Description>
+         </Block>
+         <Block Mode="Configuration" DisplayName="NXT Light Configuration">
+            <Description><![CDATA[<p>NXT Light Configuration mode</p>]]></Description>
+         </Block>
+		 <Block Mode="ReadNXTRaw" DisplayName="Read NXT Light Raw Value">
+            <Description><![CDATA[<p>ReadNXTRaw</p>]]></Description>
+         </Block>
+         <Category Name="NXT_Norm" DisplayName="Read NXT Light (Faster)">
+            <Block Mode="NXT_Norm1" DisplayName="Port 1">
+               <Description><![CDATA[<p>ReadNXTNorm 1</p>]]></Description>
+            </Block>
+            <Block Mode="NXT_Norm2" DisplayName="Port 2">
+               <Description><![CDATA[<p>ReadNXTNorm 2</p>]]></Description>
+            </Block>
+            <Block Mode="NXT_Norm3" DisplayName="Port 3">
+               <Description><![CDATA[<p>ReadNXTNorm 3</p>]]></Description>
+            </Block>
+            <Block Mode="NXT_Norm4" DisplayName="Port 4">
+               <Description><![CDATA[<p>ReadNXTNorm 4</p>]]></Description>
+            </Block>
+         </Category>
+      </PolyGroup>
+   </PolyGroups>
+</EditorStrings>
